@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 16.04.2011 13:33:11
+
+newmtl Onion_green
+	Ns 41.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2510 0.3647 0.2745
+	Ks 0.4500 0.4500 0.4500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Exchange_3D\FRUITS\Vegetable\Onion_green\tex\Onion_green_diff.jpg
+	map_Kd D:\Exchange_3D\FRUITS\Vegetable\Onion_green\tex\Onion_green_diff.jpg
+	map_Ks D:\Exchange_3D\FRUITS\Vegetable\Onion_green\tex\Onion_green_gloss.jpg
